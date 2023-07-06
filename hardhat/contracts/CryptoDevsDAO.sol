@@ -196,4 +196,6 @@ contract CryptoDevsDAO is Ownable {
 
     fallback() external payable {}
 
+    // 12f9debef0ab3fa4a34b8a8ca4f66d44 walletConnect onchainDAPP ProjectId
+
 }
